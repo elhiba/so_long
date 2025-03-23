@@ -2,7 +2,7 @@
 	<img src=".badge/so_longe.png">
 </p>
 
-<h1>
+<h1 align="center">
 	So Long
 </h1>
 

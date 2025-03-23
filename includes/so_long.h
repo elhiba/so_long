@@ -6,7 +6,7 @@
 /*   By: moel-hib <moel-hib@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/03 10:13:43 by moel-hib          #+#    #+#             */
-/*   Updated: 2025/03/23 14:18:13 by moel-hib         ###   ########.fr       */
+/*   Updated: 2025/03/23 15:06:39 by moel-hib         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,12 +32,12 @@
 
 # define IMG_SIZE "32"
 
-# define PLAYER "./textures/mandatory/" IMG_SIZE "/P.xpm"
-# define WALL "./textures/mandatory/" IMG_SIZE "/1.xpm"
-# define EXIT "./textures/mandatory/" IMG_SIZE "/E.xpm"
-# define EXIT_OPEN "./textures/mandatory/" IMG_SIZE "/EO.xpm"
-# define GROUND "./textures/mandatory/" IMG_SIZE "/0.xpm"
-# define COLLECTIBLE "./textures/mandatory/" IMG_SIZE "/C.xpm"
+# define PLAYER "./textures/" IMG_SIZE "/P.xpm"
+# define WALL "./textures/" IMG_SIZE "/1.xpm"
+# define EXIT "./textures/" IMG_SIZE "/E.xpm"
+# define EXIT_OPEN "./textures/" IMG_SIZE "/EO.xpm"
+# define GROUND "./textures/" IMG_SIZE "/0.xpm"
+# define COLLECTIBLE "./textures/" IMG_SIZE "/C.xpm"
 
 # define ESC 65307
 
